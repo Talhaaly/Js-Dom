@@ -39,7 +39,7 @@
 // Events Mouse   --- onMouseover
 // Events field --- like Inputs field
 // Reading field value
-
+// Reading & setting paragraph text
 
 
 

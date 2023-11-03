@@ -1,0 +1,26 @@
+/* .container {
+    background-color: blue;
+    color: bisque;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: black;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+li {
+  list-style-type: none;
+}
+
+
+ul li:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 2px;
+} */

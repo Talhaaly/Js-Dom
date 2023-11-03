@@ -53,37 +53,60 @@
 
 
 
+// =================================go=========================================
+
+
+
+// const paragraph = "This is a peragraph. it is a  very long long pera. it containt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas nisi earum aspernatur fugit blanditiis reprehenderit minima. Adipisci libero, a cumque architecto nemo est porro voluptas, quis fuga neque similique ipsam eligendi! Optio, recusandae alias voluptatum cupiditate reiciendis culpa, unde, soluta aliquid illum earum eos itaque corrupti tempore ipsam asperiores consequatur! the tregify of the menu bar command to list vko prhsetv ldrogv xsikrvm cndsfr hdfdsfkv ksfgong. "
+
+// const para = document.querySelector('p')
+
+// para.textContent = paragraph.slice(0, 10) + "..."
+
+
+
+// const button = document.querySelector('button');
+
+// button.setAttribute('onclick', 'showMore()');
+
+
+// function showMore() {
+//     para.textContent = paragraph
+//     button.textContent = 'Show Less'
+//     button.setAttribute('onclick', 'showLess()');
+// }
 
 
 
 
-const paragraph = "This is a peragraph. it is a  very long long pera. it containt Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas nisi earum aspernatur fugit blanditiis reprehenderit minima. Adipisci libero, a cumque architecto nemo est porro voluptas, quis fuga neque similique ipsam eligendi! Optio, recusandae alias voluptatum cupiditate reiciendis culpa, unde, soluta aliquid illum earum eos itaque corrupti tempore ipsam asperiores consequatur! the tregify of the menu bar command to list vko prhsetv ldrogv xsikrvm cndsfr hdfdsfkv ksfgong. "
-
-const para = document.querySelector('p')
-
-para.textContent = paragraph.slice(0, 10) + "..."
-
-
-
-const button = document.querySelector('button');
-
-button.setAttribute('onclick', 'showMore()');
+// function showLess() {
+//     para.textContent = paragraph.slice(0, 10) + "..."
+//     button.textContent = "Show More"
+//     button.setAttribute('onclick', 'showMore()');
+// }
 
 
-function showMore() {
-    para.textContent = paragraph
-    button.textContent = 'Show Less'
-    button.setAttribute('onclick', 'showLess()');
-}
+// ============================go=================================================
 
 
 
 
-function showLess() {
-    para.textContent = paragraph.slice(0, 10) + "..."
-    button.textContent = "Show More"
-    button.setAttribute('onclick', 'showMore()');
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

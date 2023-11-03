@@ -89,12 +89,22 @@
 // ============================go=================================================
 
 
+// ============================================font size ==========
 
 
 
+// var numofFontinc = 16
+// var numofFontdec = 16
+
+// function makeBig() {
+//     document.getElementById("p1").style.fontSize = `${++numofFontinc}px`
+// }
+// function makesmall() {
+//     document.getElementById("p1").style.fontSize = `${--numofFontdec}px`
+// }
 
 
-
+// ==============================================================font size=================
 
 
 

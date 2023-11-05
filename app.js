@@ -200,3 +200,23 @@
 // }
 
 // btn.addEventListener('click', changeColor)
+
+
+// Four
+
+const heading = document.querySelector('h1')
+const btn = document.querySelector('.btn')
+
+// btn.addEventListener('mousedown', function (){
+//     alert("down")
+// })
+
+
+// btn.addEventListener('mouseup', function (){
+//     alert("Up")
+// })
+
+
+// btn.addEventListener('mouseenter', function (){
+//     alert("enter")
+// })

@@ -145,15 +145,24 @@
 
 
 
+// =================== function style =====================
+
+// function (num) {
+
+// }
 
 
+// const addNumber = (num) => {
+//     return nim + 1
+// }
 
 
+// const addNumber = (num) => num + 1
+
+// const addNumber = num => num + 1
 
 
-
-
-
+// =================== function style =====================
 
 
 

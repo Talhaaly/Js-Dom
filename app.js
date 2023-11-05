@@ -110,12 +110,21 @@
 
 
 
+// ======================= Events in javaScript =================================
+
+// onclick Event
 
 
+//  ===========================================================================// addEventListener========
 
 
+const btn = document.querySelector('.btn')
+btn.addEventListener('click', function(){
+    alert("hey you clicked me !")
+})
 
 
+//  ===========================================================================// addEventListener========
 
 
 

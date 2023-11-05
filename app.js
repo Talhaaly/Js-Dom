@@ -117,14 +117,47 @@
 
 //  ===========================================================================// addEventListener========
 
+// one
 
-const btn = document.querySelector('.btn')
-btn.addEventListener('click', function(){
-    alert("hey you clicked me !")
-})
+// const btn = document.querySelector('.btn')
+// btn.addEventListener('click', function(){
+//     alert("hey you clicked me !")
+// })
+
+
+
+// two
+
+
+// const btn = document.querySelector('.btn')
+
+// btn.addEventListener('click', function(event){
+//     // console.log(event.currentTarget);
+//     // or
+// console.log(this);
+// console.log(this.textContent);
+// })
+
 
 
 //  ===========================================================================// addEventListener========
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

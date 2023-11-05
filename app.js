@@ -132,8 +132,8 @@
 // const btn = document.querySelector('.btn')
 
 // btn.addEventListener('click', function(event){
-//     // console.log(event.currentTarget);
-//     // or
+    // console.log(event.currentTarget);
+    // or
 // console.log(this);
 // console.log(this.textContent);
 // })
@@ -167,18 +167,24 @@
 
 
 
+// ______________________________________________Practice Event _____________________________________
+
+// one
+
+// const btn = document.querySelector('.btn')
+// btn.addEventListener('click', function() {
+//     console.log("hey Click Me .");
+// })
 
 
+// Two
+
+// const btn = document.querySelector('.btn')
+// const heading = document.querySelector('h2')
+// btn.addEventListener('click', function() {
+//         heading.classList.add('blue')
+//     })
 
 
-
-
-
-
-
-
-
-
-
-
+// Three
 

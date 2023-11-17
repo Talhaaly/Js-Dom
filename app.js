@@ -238,12 +238,12 @@ let password = document.getElementById('password')
 form.addEventListener('submit', function(e){
     e.preventDefault();
     alert("Form Submited")
-    localStorage.setItem('name', fname.value )
-    localStorage.setItem('password', password.value  )
+    localStorage.setItem('name', fname.value)
+    localStorage.setItem('password', password.value)
 });
 // -----------------------------------------------------------------------
 
-
+// setTimeout(()=> alert("Jaldi Fill Karlay Bhai...", 3000))
 
 
 

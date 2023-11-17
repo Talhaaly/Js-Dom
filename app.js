@@ -204,8 +204,8 @@
 
 // Four
 
-const heading = document.querySelector('h1')
-const btn = document.querySelector('.btn')
+// const heading = document.querySelector('h1')
+// const btn = document.querySelector('.btn')
 
 // btn.addEventListener('mousedown', function (){
 //     alert("down")

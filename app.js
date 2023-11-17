@@ -220,3 +220,64 @@
 // btn.addEventListener('mouseenter', function (){
 //     alert("enter")
 // })
+
+
+
+// _______________________________________________________________________________________________________
+
+
+
+// alert(prompt("what is your name"));
+
+
+
+const form = document.getElementById('form')
+const name = document.getElementById('name')
+const password = document.getElementById('password')
+
+
+form.addEventListener('submit', function(e){
+    e.preventDefault();
+    alert("Form Submited")
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

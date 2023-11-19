@@ -277,17 +277,24 @@
 
 
 
-// const student = {
-//     name : "Talha",
-//     calcAge : function(age){
-//         this.age = age
-//     }
-// }
+const student = {
+    name : "Talha",
+    calcAge : function(age){
+        this.age = age
+    }
+}
 
-// student.calcAge(22)
-// console.log(student);
+student.calcAge(22)
+console.log(student);
 
+const check ="name" in student
+const chk1 ="location" in student
+const chk2 ="age" in student
+console.log( check);
+console.log( chk1);
+console.log( chk2);
 
+// ___________________________________________________
 
 
 

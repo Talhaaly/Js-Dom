@@ -231,22 +231,22 @@
 
 
 
-const form = document.getElementById('form')
-let fname = document.getElementById('name')
-let password = document.getElementById('password')
+// const form = document.getElementById('form')
+// let fname = document.getElementById('name')
+// let password = document.getElementById('password')
 
-form.addEventListener('submit', function(e){
-    e.preventDefault();
-    alert("Form Submited")
-    localStorage.setItem('name', fname.value)
-    localStorage.setItem('password', password.value)
-});
+// form.addEventListener('submit', function(e){
+//     e.preventDefault();
+//     alert("Form Submited")
+//     localStorage.setItem('name', fname.value)
+//     localStorage.setItem('password', password.value)
+// });
 // -----------------------------------------------------------------------
 
 // setTimeout(()=> alert("Jaldi Fill Karlay Bhai...", 3000))
 
 
-
+// -----------------------------------------------------------------------------------------------------------------------
 
 
 

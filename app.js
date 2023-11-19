@@ -248,13 +248,29 @@
 
 // -----------------------------------------------------------------------------------------------------------------------
 
+const meraNaam = {
+    fName : 'Talha',
+    lName : 'Ali',
+    age : 23,
+    job : 'Student',
+    friends : ["Shahzaib", "Ayaz", "Hassan"]
+  }
+
+  console.log(meraNaam);
+  console.log(meraNaam.fName);
+  console.log(meraNaam ['lName']);
+
+  const nameKey = 'Name';
+  console.log(meraNaam ['f' + nameKey]);
+  console.log(meraNaam ['l' + nameKey]);
 
 
 
+meraNaam.location = "Karachi"
+console.log(meraNaam);
 
-
-
-
+// meraNaam.friends[0] = "Best friend"
+// console.log(meraNaam);
 
 
 

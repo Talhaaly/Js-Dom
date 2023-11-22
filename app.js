@@ -297,6 +297,22 @@
 // ___________________________________________________
 
 
+// JavaScript =======  Depth ======= Core ====== 
+
+
+// javascript is a high level object oriented multi paradigm programming language. 
+
+// High Level => Any computer program need resources. 
+// Garbage Collected 
+// Interpreted or just in time compiled 
+// multi paradigm 
+// proto type based object oriented 
+// first class function 
+// Dynamics
+// single threaded 
+// Non blocking event loop 
+
+
 
 
 

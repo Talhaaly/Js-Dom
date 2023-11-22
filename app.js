@@ -302,6 +302,8 @@
 
 // javascript is a high level object oriented multi paradigm programming language. 
 
+// javaScript Is a Dynamic Type Language 
+
 // High Level => Any computer program need resources. 
 // Garbage Collected 
 // Interpreted or just in time compiled 
